@@ -1,3 +1,5 @@
+#ignove venv
+venv
 # Apple
 *.DS_Store
 
